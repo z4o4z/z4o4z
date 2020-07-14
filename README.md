@@ -6,7 +6,7 @@ I'm Evgeny. I'm a Senior Full Stack Engineer based in Minsk 🇧🇾. I'm helpin
 
 ### Find me elsewhere 🌎
 
-[🐦 Twitter](https://twitter.com/z4o4z/)
-[📸 Instagram](https://www.instagram.com/z4o4z)
-[💼 LinkedIn](https://www.linkedin.com/in/evgeny-zaytsev-630409a6)
+[🐦 Twitter](https://twitter.com/z4o4z/)\
+[📸 Instagram](https://www.instagram.com/z4o4z)\
+[💼 LinkedIn](https://www.linkedin.com/in/evgeny-zaytsev-630409a6)\
 [🎯 Coders Rank](https://profile.codersrank.io/user/z4o4z)
