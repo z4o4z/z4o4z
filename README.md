@@ -4,6 +4,8 @@ I'm Evgeny. I'm a Senior Full Stack Engineer based in Minsk 🇧🇾. I'm helpin
 
 👨‍💻 I’m currently working at [Voiceflow](https://www.voiceflow.com).
 
+[![z4o4z's github stats](https://github-readme-stats.vercel.app/api?username=z4o4z&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/z4o4z)
+
 ### Find me elsewhere 🌎
 
 [🐦 Twitter](https://twitter.com/z4o4z/)\
