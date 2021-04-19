@@ -11,5 +11,4 @@ I'm Evgeny. I'm a Senior Full Stack Engineer based in Minsk. I'm helping to deve
 [🐦 Twitter](https://twitter.com/z4o4z/)\
 [📸 Instagram](https://www.instagram.com/z4o4z)\
 [💼 LinkedIn](https://www.linkedin.com/in/evgeny-zaytsev-630409a6)\
-[💻 HackerRan](https://www.hackerrank.com/overhawlin)\
-[🎯 CodersRank](https://profile.codersrank.io/user/z4o4z)
+[💻 HackerRank](https://www.hackerrank.com/overhawlin)
